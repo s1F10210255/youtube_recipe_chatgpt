@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "359218122786",
+    "project_id": "youtube-api-401500",
+    "storage_bucket": "youtube-api-401500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359218122786:android:e0da52c6a15bddc9bbba7b",
+        "android_client_info": {
+          "package_name": "com.example.youtube_api_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9SwATAGzXUz4r1-KjlWjNYlDlSItWxsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359218122786:android:b73f6a0f5a9a5efdbbba7b",
+        "android_client_info": {
+          "package_name": "com.example.youtube_recipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9SwATAGzXUz4r1-KjlWjNYlDlSItWxsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
